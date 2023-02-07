@@ -7,7 +7,7 @@
 | Titre de l'oeuvre  | Nature morte 7 | 
 | Nom de l'artiste    | Baron Lanteigne       | 
 | Année de réalisation     |   2022 | 
-| Description de l'oeuvre   | Cartel + diverses vues          | 
+| Description de l'oeuvre   | ![Vue d'ensemble](img1.JPG)  ![Focus sur cartes mères](img2.JPG)    | 
 | Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
 | Mise en espace   | Vue d'ensemble de la pièce + Faire un croquis de la mise en espace (plan ou élévation selon ce qui facilite la compréhension)        | 
 | Composantes et techniques     | L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui était le focus de l'oeuvre, une autre suspendue à part). Une boîte en plexiglass contenait la télévision d'un côté. Des leds contournaient la télé dans la boîte. De l'autre côté se trouvait une surface où se trouvaient plusieurs éléments qui semblaient être des cartes mères d'ordinateurs tranparentes agrémentées de lumières colorées et d'écrans miniatures. Des fils non-dissimulés reliaient ces éléments ensemble. Pour décorer, des fausses vignes parsemaient les télévisions au sol ainsi que la boîte de plexiglass. Les fils étaient sans doute branchés à des prises cachées au plafond. J'ai pu remarquer une barre multiprises sur laquelle tout était branché.
