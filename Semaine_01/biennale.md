@@ -1,6 +1,6 @@
 |:pencil2: À noter  | :camera: À photographier | 
 | ---     | ---             | 
-| Nom de l'exposition ou de l'événement|Affiche de l'exposition|
+| Nom de l'exposition ou de l'événement|<img src="img5.jpeg" width=250px heigth=250px />|
 | Lieu de mise en exposition    | <img src="img4.JPG" width=250px heigth=250px />| 
 | Type d'exposition (temporaire, permanente, itinérante, intérieure, extérieure)    | L'exposition est intérieure et temporaire.| 
 | Date de votre visite    | Le jeudi 2 février.  | 
@@ -8,7 +8,7 @@
 | Nom de l'artiste    | Baron Lanteigne       | 
 | Année de réalisation     |   2022 | 
 | Description de l'oeuvre   | <img src="img1.jpg" width=250px heigth=250px />  <img src="img2.jpeg" width=250px heigth=250px /> <img src="img3.jpeg" width=250px heigth=250px /> | 
-| Type d'installation (contemplative, immersive, interactive) | Vue *parlante*             | 
+| Type d'installation (contemplative, immersive, interactive) | L'installation est contemplative           | 
 | Mise en espace   | [![Vue d'ensemble de l'oeuvre](https://youtube.com/shorts/MamwvAp319Q?feature=share/0.jpg)](https://youtube.com/shorts/MamwvAp319Q?feature=share) | 
 | Composantes et techniques     | L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui était le focus de l'oeuvre, une autre suspendue à part). Une boîte en plexiglass contenait la télévision d'un côté. Des leds contournaient la télé dans la boîte. De l'autre côté se trouvait une surface où se trouvaient plusieurs éléments qui semblaient être des cartes mères d'ordinateurs tranparentes agrémentées de lumières colorées et d'écrans miniatures. Des fils non-dissimulés reliaient ces éléments ensemble. Pour décorer, des fausses vignes parsemaient les télévisions au sol ainsi que la boîte de plexiglass. Les fils étaient sans doute branchés à des prises cachées au plafond. J'ai pu remarquer une barre multiprises sur laquelle tout était branché.
 | Éléments nécessaires à la mise en exposition   | Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision accrochée à côté. Peu d'élément étaient nécéssaires à la mise en exposition puisque rien n'étaient dissimulé ou disposé sur un support.| 
