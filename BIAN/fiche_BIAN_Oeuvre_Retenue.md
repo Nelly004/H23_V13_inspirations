@@ -11,6 +11,8 @@
 ## L'oeuvre sélectionnée
 
 ### Nature morte 7
-<img src="BIAN/images/oeuvre1.jpg" width=250px heigth=250px />
+<img src="images/images/oeuvre1.jpg" width=250px heigth=250px />
+
+***Artiste:*** Baron Lanteigne
 
 
