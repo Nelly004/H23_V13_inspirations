@@ -20,7 +20,16 @@
 
 <sup><sub>LANTEIGNE, Baron. "nature morte 7", Baron Lanteigne, https://baronlanteigne.com/home.html, 2022. (Consulté le 16 février 2023)</sub></sup>
 
-### Description de l'oeuvre
+### Composantes
 
-L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui était le focus de l'oeuvre, une autre suspendue à part). Une boîte en plexiglass contenait la télévision d'un côté. Des leds contournaient la télé dans la boîte. De l'autre côté se trouvait une surface où se trouvaient plusieurs éléments qui semblaient être des cartes mères d'ordinateurs tranparentes agrémentées de lumières colorées et d'écrans miniatures. Des fils non-dissimulés reliaient ces éléments ensemble. Pour décorer, des fausses vignes parsemaient les télévisions au sol ainsi que la boîte de plexiglass. Les fils étaient sans doute branchés à des prises cachées au plafond. J'ai pu remarquer une barre multiprises sur laquelle tout était branché.
+L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui était le focus de l'oeuvre, une autre suspendue à part). Une boîte en plexiglass contient la télévision d'un côté. Des leds contournent la télé dans la boîte. De l'autre côté se trouve une surface où sont vissés plusieurs éléments qui semblent être des répliques de cartes mères d'ordinateurs tranparentes agrémentées de lumières colorées et d'écrans miniatures. Des fils non-dissimulés relient ces éléments ensemble. Pour décorer, des fausses vignes parsement les télévisions au sol ainsi que la boîte de plexiglass. Les fils des éléments suspendus étaient sans doute branchés à des prises cachées au plafond. J'ai pu remarquer une barre multiprises sur lesquelles les télévisions au sol étaient branchées.
+
+### Mise en exposition
+
+Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision accrochée à côté. Peu d'élément étaient nécéssaires à la mise en exposition puisque rien n'étaient dissimulé ou disposé sur un support. Le croquis ci-dessous illustre la façon dont étaient disposés les éléments. 
+
+<img src="images/images/croquis.JPG" width=250px heigth=250px />
+
+
+
 
