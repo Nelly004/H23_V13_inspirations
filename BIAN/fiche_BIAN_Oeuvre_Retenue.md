@@ -8,6 +8,10 @@
 
 ***Date de visite:*** La visite a eu lieu le 2 février 2023.
 
+<img src="images/images/affiche.jpeg" width=250px heigth=250px /> 
+<img src="images/images/selfie.JPG" width=250px heigth=250px />
+
+
 ## L'oeuvre: nature morte 7
 
 *Conçue par Baron Lanteigne, 2022*
@@ -19,6 +23,8 @@
 -Baron Lanteigne
 
 <sup><sub>LANTEIGNE, Baron. "nature morte 7", Baron Lanteigne, https://baronlanteigne.com/home.html, 2022. (Consulté le 16 février 2023)</sub></sup>
+
+<img src="images/images/cartel.jpeg" width=250px heigth=250px />
 
 ### Composantes
 
