@@ -26,10 +26,10 @@ L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui
 
 ### Mise en exposition
 
-Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision accrochée à côté. Peu d'élément étaient nécéssaires à la mise en exposition puisque rien n'étaient dissimulé ou disposé sur un support. Le croquis ci-dessous illustre la façon dont étaient disposés les éléments. 
+Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision accrochée à côté. Peu d'élément étaient nécéssaires à la mise en exposition puisque rien n'étaient dissimulé ou disposé sur un support. Le croquis ci-dessous illustre la façon dont étaient présentés les éléments. 
 
 <img src="images/images/croquis.JPG" width=250px heigth=250px />
 
-
+### Vidéo de l'oeuvre
 
 
