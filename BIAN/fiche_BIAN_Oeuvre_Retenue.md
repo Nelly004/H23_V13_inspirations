@@ -31,4 +31,8 @@ Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision ac
 <img src="images/images/croquis.JPG" width=250px heigth=250px />
 [Vue d'ensemble de l'oeuvre](https://youtube.com/shorts/MamwvAp319Q?feature=share)
 
-### 
+### Intéractivité
+
+L'installation invite le visiteur à la contourner afin de voir les deux côtés qu'elle représente: ce qu'on voit à l'écran et le hardware, une partie souvent cachée derrière l'écran et oublié par les utilisateurs. Le visiteur peut tourner autour de l'installation et observer comment elle fonctionne puisqu'aucun fil n'est caché. J'ai trouvé ce concept très intéressant et différent des autres installations qui cachent leurs parties électroniques car ce n'est "pas beau".
+
+
