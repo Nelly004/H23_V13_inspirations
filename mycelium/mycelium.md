@@ -2,7 +2,10 @@
 Les projets les plus intéressants aux moins intéressants selon moi
 
 ## 1 - Edria (Entre Fungus)
+Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
+
 [Site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
+
 
 ### Cours incontournables afin de réaliser le projet
 582 412 MO: Traitement audiovisuel 
