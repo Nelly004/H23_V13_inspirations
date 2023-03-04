@@ -6,6 +6,10 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 
 [Site web](https://tim-montmorency.com/2023/projets/ENTRE-FUNGUS/docs/web/index.html)
 
+<img src="images/edria.jpg" width=250px heigth=250px />
+<img src="images/plan_edria.png" width=250px heigth=250px />
+[Plan détaillé](https://github.com/F-C-A/EDRIA/tree/main/docs/preproduction#cartographie)
+
 
 ### Cours incontournables afin de réaliser le projet
 582 412 MO: Traitement audiovisuel 
