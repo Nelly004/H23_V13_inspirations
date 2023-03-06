@@ -53,7 +53,14 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 ### Composante inconnue
 **MadMapper** est un logiciel servant principalement à projeter des vidéos ou fresques dans un espace et à contrôler les couleurs et animations de lumières et LEDs.
 
-<sup><sub>S-A. "About us", Madmapper, "https://madmapper.com/aboutus" 2022 (Consulté le 4 mars 2023)</sub></sup>
+<sup><sub> Madmapper. "About us", Madmapper, "https://madmapper.com/aboutus" 2022 (Consulté le 4 mars 2023)</sub></sup>
+
+### Justification du classement
+J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambitieux que les autres projets. Je trouve que les grandes tours végétales qui rassemblent les gens est un concept intéressant et qui concorde avec mon amour de la nature. Les tours qui font des animations différentes selon le nombre de personnes qui les entourent vont sans doute créer des moments mémorables pour ceux qui décide d'intéragier avec elles. 
+
+### Prévisions sur l'impression que j'aurai
+Je crois que cette installation va m'impressionner puisque je trouvait déjà le assez test captivant. Je ne sais pas à quoi m'attendre en ce qui concerne la grosseur de cette oeuvre, donc j'ai très hâte de la voir enfin et de l'essayer avec mes amis.
+
 
 
 
