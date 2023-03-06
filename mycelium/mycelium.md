@@ -56,10 +56,43 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 <sup><sub> Madmapper. "About us", Madmapper, "https://madmapper.com/aboutus" 2022 (Consulté le 4 mars 2023)</sub></sup>
 
 ### Justification du classement
+L'utilisation d'un vélo comme source d'énergie afin d'activer les lumière est un concept orginal. Cela permet aux gens de bouger tout en observant les jeux de lumière de l'arbre. Toutefois, je ne trouve pas qu'il rassemble autant les gens puisqu'il n'y a qu'un seul vélo stationnaire.
+
+### Prévisions sur l'impression que j'aurai
+Je pense que, comme la plupart des gens, je vais tenter de pédaler très vite afin de voir les limites du vélo et de ce qu'il fait.
+
+## 1 - Echomarine 
+Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+
+
+[Site web](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+
+[Courte vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
+
+<img src="images/plan_echo.png" width=250px heigth=250px />
+
+[Plan détaillé](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
+
+
+### Cours incontournables afin de réaliser le projet
+582 412 MO: Traitement audiovisuel 
+
+582 531 MO: Objets interactifs
+
+582 501 MO: Conception d'une expérience multimédia 3
+
+### Composante inconnue
+**La fibre optique** est un fil dont l'intérieur est très fin et il est fait en verre ou en plastique. Il peut conduire la lumière et transmettre des données numériques. 
+
+<sup><sub>S-A. "Fibre optique", Wikipedia, "https://fr.wikipedia.org/wiki/Fibre_optique#:~:text=Fibres%20optiques.&text=Une%20fibre%20optique%20est%20un,la%20transmission%20de%20donn%C3%A9es%20num%C3%A9riques.2022." 2022 (Consulté le 23 février 2023)</sub></sup>
+
+### Justification du classement
 J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambitieux que les autres projets. Je trouve que les grandes tours végétales qui rassemblent les gens est un concept intéressant et qui concorde avec mon amour de la nature. Les tours qui font des animations différentes selon le nombre de personnes qui les entourent vont sans doute créer des moments mémorables pour ceux qui décide d'intéragier avec elles. 
 
 ### Prévisions sur l'impression que j'aurai
 Je crois que cette installation va m'impressionner puisque je trouvait déjà le assez test captivant. Je ne sais pas à quoi m'attendre en ce qui concerne la grosseur de cette oeuvre, donc j'ai très hâte de la voir enfin et de l'essayer avec mes amis.
+
+
 
 
 
