@@ -61,7 +61,7 @@ L'utilisation d'un vélo comme source d'énergie afin d'activer les lumière est
 ### Prévisions sur l'impression que j'aurai
 Je pense que, comme la plupart des gens, je vais tenter de pédaler très vite afin de voir les limites du vélo et de ce qu'il fait.
 
-## 1 - Echomarine 
+## 3 - Echomarine 
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 
@@ -73,24 +73,59 @@ Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
 [Plan détaillé](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
 
-
 ### Cours incontournables afin de réaliser le projet
-582 412 MO: Traitement audiovisuel 
+582 214 MO: Animation 2D 
 
-582 531 MO: Objets interactifs
+A 582 121 MO: Illustration numérique
 
-582 501 MO: Conception d'une expérience multimédia 3
+A 582 521 MO: Installation multimédia
 
 ### Composante inconnue
-**La fibre optique** est un fil dont l'intérieur est très fin et il est fait en verre ou en plastique. Il peut conduire la lumière et transmettre des données numériques. 
+"**FL Studio** est un logiciel de production de musique [...]. Ce logiciel comprend un éditeur audio, un séquenceur basé sur le concept de patterns (de type de boîte à rythmes, ou de type partition) à arranger dans une liste de lecture. FL Studio peut charger et exécuter des plug-ins (instruments virtuels, effets)."
 
-<sup><sub>S-A. "Fibre optique", Wikipedia, "https://fr.wikipedia.org/wiki/Fibre_optique#:~:text=Fibres%20optiques.&text=Une%20fibre%20optique%20est%20un,la%20transmission%20de%20donn%C3%A9es%20num%C3%A9riques.2022." 2022 (Consulté le 23 février 2023)</sub></sup>
+<sup><sub>S-A. "FL Studio", Wikipedia, "https://fr.wikipedia.org/wiki/FL_Studio" 2022 (Consulté le 6 mars 2023)</sub></sup>
 
 ### Justification du classement
-J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambitieux que les autres projets. Je trouve que les grandes tours végétales qui rassemblent les gens est un concept intéressant et qui concorde avec mon amour de la nature. Les tours qui font des animations différentes selon le nombre de personnes qui les entourent vont sans doute créer des moments mémorables pour ceux qui décide d'intéragier avec elles. 
+Je trouve qu'Echomarine est un projet important puisqu'il vise à sensibiliser ses visiteurs sur les animaux marins en voie de disparition. Les créatrices ont trouvé une façon d'instruire les visiteurs tous en les amusant, donc les informations importantes que ceux-ci vont apprendre vont leur rester en mémoire plus longtemps. J'aime beaucoup ce projet et sa vision, mais je trouve qu'il est moins imposant que les deux précédents, donc je le mets en 3e place.
 
 ### Prévisions sur l'impression que j'aurai
-Je crois que cette installation va m'impressionner puisque je trouvait déjà le assez test captivant. Je ne sais pas à quoi m'attendre en ce qui concerne la grosseur de cette oeuvre, donc j'ai très hâte de la voir enfin et de l'essayer avec mes amis.
+J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur le murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
+
+## 4 - Nexoum
+Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+
+
+[Site web](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
+
+[Courte vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
+
+<img src="images/plan_echo.png" width=250px heigth=250px />
+
+[Plan détaillé](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
+
+### Cours incontournables afin de réaliser le projet
+582 214 MO: Animation 2D 
+
+A 582 121 MO: Illustration numérique
+
+A 582 521 MO: Installation multimédia
+
+### Composante inconnue
+"**FL Studio** est un logiciel de production de musique [...]. Ce logiciel comprend un éditeur audio, un séquenceur basé sur le concept de patterns (de type de boîte à rythmes, ou de type partition) à arranger dans une liste de lecture. FL Studio peut charger et exécuter des plug-ins (instruments virtuels, effets)."
+
+<sup><sub>S-A. "FL Studio", Wikipedia, "https://fr.wikipedia.org/wiki/FL_Studio" 2022 (Consulté le 6 mars 2023)</sub></sup>
+
+### Justification du classement
+Je trouve qu'Echomarine est un projet important puisqu'il vise à sensibiliser ses visiteurs sur les animaux marins en voie de disparition. Les créatrices ont trouvé une façon d'instruire les visiteurs tous en les amusant, donc les informations importantes que ceux-ci vont apprendre vont leur rester en mémoire plus longtemps. J'aime beaucoup ce projet et sa vision, mais je trouve qu'il est moins imposant que les deux précédents, donc je le mets en 3e place.
+
+### Prévisions sur l'impression que j'aurai
+J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur le murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
+
+
+
+
+
+
 
 
 
