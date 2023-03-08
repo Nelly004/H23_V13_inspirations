@@ -47,7 +47,6 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 
 582 412 MO Traitement audiovisuel
 
-
 582 501 MO: Conception d'une expérience multimédia 3
 
 ### Composante inconnue
@@ -76,9 +75,9 @@ Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 ### Cours incontournables afin de réaliser le projet
 582 214 MO: Animation 2D 
 
-A 582 121 MO: Illustration numérique
+582 121 MO: Illustration numérique
 
-A 582 521 MO: Installation multimédia
+582 521 MO: Installation multimédia
 
 ### Composante inconnue
 "**FL Studio** est un logiciel de production de musique [...]. Ce logiciel comprend un éditeur audio, un séquenceur basé sur le concept de patterns (de type de boîte à rythmes, ou de type partition) à arranger dans une liste de lecture. FL Studio peut charger et exécuter des plug-ins (instruments virtuels, effets)."
@@ -89,34 +88,35 @@ A 582 521 MO: Installation multimédia
 Je trouve qu'Echomarine est un projet important puisqu'il vise à sensibiliser ses visiteurs sur les animaux marins en voie de disparition. Les créatrices ont trouvé une façon d'instruire les visiteurs tous en les amusant, donc les informations importantes que ceux-ci vont apprendre vont leur rester en mémoire plus longtemps. J'aime beaucoup ce projet et sa vision, mais je trouve qu'il est moins imposant que les deux précédents, donc je le mets en 3e place.
 
 ### Prévisions sur l'impression que j'aurai
-J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur le murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
+J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur les murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
 
-## 4 - Nexoum
-Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+## 4 - Nexoum (Boucler la boucle)
+Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
 
-[Site web](https://tim-montmorency.com/2023/projets/Echomarine/docs/web/index.html)
 
-[Courte vidéo](https://youtube.com/shorts/73GodWTeL10?feature=share)
+[Site web](https://tim-montmorency.com/2023/projets/Boucler-la-boucle/docs/web/index.html)
 
-<img src="images/plan_echo.png" width=250px heigth=250px />
+<img src="images/nexoum.jpg" width=250px heigth=250px />
 
-[Plan détaillé](https://github.com/Echomarine/Echomarine/tree/main/docs/preproduction)
+<img src="images/plan_nexoum.png" width=250px heigth=250px />
+
+[Plan détaillé](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
 
 ### Cours incontournables afin de réaliser le projet
-582 214 MO: Animation 2D 
+582 412 MO: Traitement audiovisuel 
 
-A 582 121 MO: Illustration numérique
+582 301 MO: Interactivité ludique
 
-A 582 521 MO: Installation multimédia
+582 521 MO: Installation multimédia
 
 ### Composante inconnue
-"**FL Studio** est un logiciel de production de musique [...]. Ce logiciel comprend un éditeur audio, un séquenceur basé sur le concept de patterns (de type de boîte à rythmes, ou de type partition) à arranger dans une liste de lecture. FL Studio peut charger et exécuter des plug-ins (instruments virtuels, effets)."
+"**QLC+** est un logiciel gratuit et multiplateforme pour contrôler les systèmes d'éclairage DMX ou analogiques comme les têtes mobiles, les gradateurs, les scanners, etc."
 
-<sup><sub>S-A. "FL Studio", Wikipedia, "https://fr.wikipedia.org/wiki/FL_Studio" 2022 (Consulté le 6 mars 2023)</sub></sup>
+<sup><sub>S-A. "Introduction", QLC+, "https://www.qlcplus.org/" 2022 (Consulté le 6 mars 2023)</sub></sup>
 
 ### Justification du classement
-Je trouve qu'Echomarine est un projet important puisqu'il vise à sensibiliser ses visiteurs sur les animaux marins en voie de disparition. Les créatrices ont trouvé une façon d'instruire les visiteurs tous en les amusant, donc les informations importantes que ceux-ci vont apprendre vont leur rester en mémoire plus longtemps. J'aime beaucoup ce projet et sa vision, mais je trouve qu'il est moins imposant que les deux précédents, donc je le mets en 3e place.
+Bien que Nexoum est un concept intéressant qui va sans doute 
 
 ### Prévisions sur l'impression que j'aurai
 J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur le murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
