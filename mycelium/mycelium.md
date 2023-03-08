@@ -116,10 +116,12 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 <sup><sub>S-A. "Introduction", QLC+, "https://www.qlcplus.org/" 2022 (Consulté le 6 mars 2023)</sub></sup>
 
 ### Justification du classement
-Bien que Nexoum est un concept intéressant qui va sans doute 
+Bien que Nexoum est un concept intéressant qui va sans doute intriguer les visiteurs en les dirigeant et en les faisant découvrir une faune imaginaire avec des codes QR, je trouve que c'est un concept qui a été souvent utilisé, par exemple avec Foresta Lumina. C'est à cause de ce manque de nouveauté que je mets Nexoum en 4e place. Aussi, ce n'est pas tout le monde qui a un téléphone avec des données cellulaire ou qui a accès au wi-fi hors de l'école, donc les codes QR ne concernent pas tous les visiteurs.
 
 ### Prévisions sur l'impression que j'aurai
-J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur le murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
+Je pense que je vais aimer suivre le chemin et atteindre la destination. J'ai hâte de voir les dessins des créatures avec les codes QR.
+
+
 
 
 
