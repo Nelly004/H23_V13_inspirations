@@ -31,7 +31,7 @@ Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbich
 <sup><sub>S-A. "Fibre optique", Wikipedia, "https://fr.wikipedia.org/wiki/Fibre_optique#:~:text=Fibres%20optiques.&text=Une%20fibre%20optique%20est%20un,la%20transmission%20de%20donn%C3%A9es%20num%C3%A9riques.2022." 2022 (Consulté le 23 février 2023)</sub></sup>
 
 ### Justification du classement
-J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambitieux que les autres projets. Je trouve que les grandes tours végétales qui rassemblent les gens est un concept intéressant et qui concorde avec mon amour de la nature. Les tours qui font des animations différentes selon le nombre de personnes qui les entourent vont sans doute créer des moments mémorables pour ceux qui décide d'intéragier avec elles. 
+J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambitieux que les autres projets. Je trouve que les grandes tours végétales qui rassemblent les gens est un concept intéressant et qui concorde avec mon amour de la nature. Les tours qui font des animations différentes selon le nombre de personnes qui les entourent vont sans doute créer des moments mémorables pour ceux qui décide d'intéragir avec elles. 
 
 ### Prévisions sur l'impression que j'aurai
 Je crois que cette installation va m'impressionner puisque je trouvait déjà le assez test captivant. Je ne sais pas à quoi m'attendre en ce qui concerne la grosseur de cette oeuvre, donc j'ai très hâte de la voir enfin et de l'essayer avec mes amis.
@@ -64,7 +64,7 @@ Par Éloïse Gagné, Skayla Stimphil, Michaël Simard, Pénélope Morrisson
 <sup><sub> Madmapper. "About us", Madmapper, "https://madmapper.com/aboutus" 2022 (Consulté le 4 mars 2023)</sub></sup>
 
 ### Justification du classement
-L'utilisation d'un vélo comme source d'énergie afin d'activer les lumière est un concept orginal. Cela permet aux gens de bouger tout en observant les jeux de lumière de l'arbre. Toutefois, je ne trouve pas qu'il rassemble autant les gens puisqu'il n'y a qu'un seul vélo stationnaire.
+L'utilisation d'un vélo comme source d'énergie afin d'activer les lumière est un concept orginial. Cela permet aux gens de bouger tout en observant les jeux de lumière de l'arbre, qui d'ailleurs, changeront avec les saisons. Toutefois, je ne trouve pas qu'il rassemble autant les gens, puisqu'il n'y a qu'un seul vélo stationnaire.
 
 ### Prévisions sur l'impression que j'aurai
 Je pense que, comme la plupart des gens, je vais tenter de pédaler très vite afin de voir les limites du vélo et de ce qu'il fait.
@@ -103,7 +103,7 @@ J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expéri
 
 ____
 
-## 4 - Nexoum (Boucler la boucle)
+## 4 - Nexum (Boucler la boucle)
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
 
@@ -130,7 +130,7 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 <sup><sub>S-A. "Introduction", QLC+, "https://www.qlcplus.org/" 2022 (Consulté le 6 mars 2023)</sub></sup>
 
 ### Justification du classement
-Bien que Nexoum est un concept intéressant qui va sans doute intriguer les visiteurs en les dirigeant et en les faisant découvrir une faune imaginaire avec des codes QR, je trouve que c'est un concept qui a été souvent utilisé, par exemple avec Foresta Lumina. C'est à cause de ce manque de nouveauté que je mets Nexoum en 4e place. Aussi, ce n'est pas tout le monde qui a un téléphone avec des données cellulaire ou qui a accès au wi-fi hors de l'école, donc les codes QR ne concernent pas tous les visiteurs.
+Bien que Nexum est un concept intéressant qui va sans doute intriguer les visiteurs en les dirigeant et en les faisant découvrir une faune imaginaire avec des codes QR, je trouve que c'est un concept qui a été souvent utilisé, par exemple avec Foresta Lumina. C'est à cause de ce manque de nouveauté que je mets Nexoum en 4e place. Aussi, ce n'est pas tout le monde qui a un téléphone avec des données cellulaire ou qui a accès au wi-fi hors de l'école, donc les codes QR ne concernent pas tous les visiteurs.
 
 ### Prévisions sur l'impression que j'aurai
 Je pense que je vais aimer suivre le chemin et atteindre la destination. J'ai hâte de voir les dessins des créatures avec les codes QR.
@@ -149,25 +149,26 @@ Par Abdanor Yara
 <p align="center">
 <img src="images/plan_zodia.png" width=400px heigth=400px />
 
-[Plan détaillé](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
+[Plan détaillé](https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduction)
 
 ### Cours incontournables afin de réaliser le projet
-582 412 MO: Traitement audiovisuel 
+582 121 MO: Illustration numérique 
 
-582 301 MO: Interactivité ludique
+582 511 MO: Web 5
 
-582 521 MO: Installation multimédia
+420 V11 MO: Programmation interactive
 
 ### Composante inconnue
-"**QLC+** est un logiciel gratuit et multiplateforme pour contrôler les systèmes d'éclairage DMX ou analogiques comme les têtes mobiles, les gradateurs, les scanners, etc."
+"**GDevelop** est un logiciel permettant de créer tous types de jeux 2D sans utiliser de langage de programmation qui se veut accessible aux plus jeunes grâce à un système de conditions et d'action sous forme de blocs appelé événements."
 
-<sup><sub>S-A. "Introduction", QLC+, "https://www.qlcplus.org/" 2022 (Consulté le 6 mars 2023)</sub></sup>
+<sup><sub>S-A. "GDevelop", Wikipédia, "https://fr.wikipedia.org/wiki/GDevelop" 2022 (Consulté le 6 mars 2023)</sub></sup>
 
 ### Justification du classement
-Bien que Nexoum est un concept intéressant qui va sans doute intriguer les visiteurs en les dirigeant et en les faisant découvrir une faune imaginaire avec des codes QR, je trouve que c'est un concept qui a été souvent utilisé, par exemple avec Foresta Lumina. C'est à cause de ce manque de nouveauté que je mets Nexoum en 4e place. Aussi, ce n'est pas tout le monde qui a un téléphone avec des données cellulaire ou qui a accès au wi-fi hors de l'école, donc les codes QR ne concernent pas tous les visiteurs.
+Je mets Zodiadiegal en 5e place, car je n'ai pas pu voir le projet en développement et je ne sais pas à quoi m'attendre contrairement aux autres projets. Aussi, je ne vois pas comment ce projet correspond au thème de Mycelium. Je trouve toutesfois que les dessins des personnages sont très mignons et expressifs.
 
 ### Prévisions sur l'impression que j'aurai
-Je pense que je vais aimer suivre le chemin et atteindre la destination. J'ai hâte de voir les dessins des créatures avec les codes QR.
+ 
+
 
 
 
