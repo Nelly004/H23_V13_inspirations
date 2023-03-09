@@ -135,38 +135,7 @@ Bien que Nexum est un concept intéressant qui va sans doute intriguer les visit
 ### Prévisions sur l'impression que j'aurai
 Je pense que je vais aimer suivre le chemin et atteindre la destination. J'ai hâte de voir les dessins des créatures avec les codes QR.
 
-____
 
-## 4 - Zodiadiegal
-Par Abdanor Yara
-
-
-
-[Site web](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
-
- <p align="center">
-<img src="images/zodia.png" width=400px heigth=400px />
-<p align="center">
-<img src="images/plan_zodia.png" width=400px heigth=400px />
-
-[Plan détaillé](https://github.com/tim-montmorency/66B-modele_de_projet/tree/main/docs/preproduction)
-
-### Cours incontournables afin de réaliser le projet
-582 121 MO: Illustration numérique 
-
-582 511 MO: Web 5
-
-420 V11 MO: Programmation interactive
-
-### Composante inconnue
-"**GDevelop** est un logiciel permettant de créer tous types de jeux 2D sans utiliser de langage de programmation qui se veut accessible aux plus jeunes grâce à un système de conditions et d'action sous forme de blocs appelé événements."
-
-<sup><sub>S-A. "GDevelop", Wikipédia, "https://fr.wikipedia.org/wiki/GDevelop" 2022 (Consulté le 6 mars 2023)</sub></sup>
-
-### Justification du classement
-Je mets Zodiadiegal en 5e place, car je n'ai pas pu voir le projet en développement et je ne sais pas à quoi m'attendre contrairement aux autres projets. Aussi, je ne vois pas comment ce projet correspond au thème de Mycelium. Je trouve toutesfois que les dessins des personnages sont très mignons et expressifs.
-
-### Prévisions sur l'impression que j'aurai
  
 
 
