@@ -1,6 +1,8 @@
 # Mycélium - Projets finaux des finissants en Technique d'intégration multimédia
 Les projets les plus intéressants aux moins intéressants selon moi
 
+___
+
 ## 1 - Edria (Entre Fungus)
 Par Elwin Durand, Loic Delorme, Dominic Roberts, Gabriel Leblanc, Meryem Berbiche, Jean-Christophe Zephir
 
@@ -29,6 +31,8 @@ J'ai mis Edria en première place, car je trouve qu'il est plus imposant et ambi
 
 ### Prévisions sur l'impression que j'aurai
 Je crois que cette installation va m'impressionner puisque je trouvait déjà le assez test captivant. Je ne sais pas à quoi m'attendre en ce qui concerne la grosseur de cette oeuvre, donc j'ai très hâte de la voir enfin et de l'essayer avec mes amis.
+
+___
 
 ## 2 - Lumasol
 
@@ -60,6 +64,8 @@ L'utilisation d'un vélo comme source d'énergie afin d'activer les lumière est
 ### Prévisions sur l'impression que j'aurai
 Je pense que, comme la plupart des gens, je vais tenter de pédaler très vite afin de voir les limites du vélo et de ce qu'il fait.
 
+____
+
 ## 3 - Echomarine 
 Par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
 
@@ -90,6 +96,8 @@ Je trouve qu'Echomarine est un projet important puisqu'il vise à sensibiliser s
 ### Prévisions sur l'impression que j'aurai
 J'ai hâte de découvrir tous les animaux et leurs animations. Puisque l'expérience est projetée sur les murs autour, je crois que je vais me sentir comme dans un aquarium ou en pleine plongée sous-marine.
 
+____
+
 ## 4 - Nexoum (Boucler la boucle)
 Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 
@@ -100,6 +108,39 @@ Par Sébastien Reilly, Sabrina Laforest, Alexandre Daniel, Maxime Des Lauriers
 <img src="images/nexoum.jpg" width=250px heigth=250px />
 
 <img src="images/plan_nexoum.png" width=250px heigth=250px />
+
+[Plan détaillé](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
+
+### Cours incontournables afin de réaliser le projet
+582 412 MO: Traitement audiovisuel 
+
+582 301 MO: Interactivité ludique
+
+582 521 MO: Installation multimédia
+
+### Composante inconnue
+"**QLC+** est un logiciel gratuit et multiplateforme pour contrôler les systèmes d'éclairage DMX ou analogiques comme les têtes mobiles, les gradateurs, les scanners, etc."
+
+<sup><sub>S-A. "Introduction", QLC+, "https://www.qlcplus.org/" 2022 (Consulté le 6 mars 2023)</sub></sup>
+
+### Justification du classement
+Bien que Nexoum est un concept intéressant qui va sans doute intriguer les visiteurs en les dirigeant et en les faisant découvrir une faune imaginaire avec des codes QR, je trouve que c'est un concept qui a été souvent utilisé, par exemple avec Foresta Lumina. C'est à cause de ce manque de nouveauté que je mets Nexoum en 4e place. Aussi, ce n'est pas tout le monde qui a un téléphone avec des données cellulaire ou qui a accès au wi-fi hors de l'école, donc les codes QR ne concernent pas tous les visiteurs.
+
+### Prévisions sur l'impression que j'aurai
+Je pense que je vais aimer suivre le chemin et atteindre la destination. J'ai hâte de voir les dessins des créatures avec les codes QR.
+
+____
+
+## 4 - Zodiadiegal
+Par Abdanor Yara
+
+
+
+[Site web](https://tim-montmorency.com/2023/projets/Zodie-Gal/docs/web/index.html)
+
+<img src="images/zodia.png" width=250px heigth=250px />
+
+<img src="images/plan_zodia.png" width=250px heigth=250px />
 
 [Plan détaillé](https://github.com/Boucle-RDDL/Nexum/tree/main/docs/preproduction)
 
