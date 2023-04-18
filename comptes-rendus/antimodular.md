@@ -1,1 +1,3 @@
-La conférence de Antimodular est animée par Karine Charbonneau
+La conférence de Antimodular est animée par Karine Charbonneau, une partenaire de l'artiste multimédia mexicain Rafael Lozano-Hemmer. Elle débute en discutant de sa carrière, expliquant comment elle est arrivée là où elle est présentement. Son parcours a commencé en organisant des expositions, en faisant des entrevues avec des artistes et en se cultivant. Après quelque temps, Karine a débuté son emploi au sein d'Antimodular où son rôle consiste a supporter Rafael dans son processus de création. La conférencière parle ensuite de l'artiste qu'elle soutient. Elle explique à l'audience que Rafael est inspiré par la science, la technologie, la politique, la sociologie, la poésie, la musique et l’histoire de l’art.
+
+
