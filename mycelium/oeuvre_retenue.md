@@ -36,8 +36,7 @@ L'installation invite le visiteur à la contourner afin de voir les deux côtés
 ## Mes impressions sur l'exposition
 
 ### Ce que j'ai aimé
-
-Mon oeuvre qui étaient réellement ma préférée était Breathing Patterns par Salomé Chatriot (je ne l'ai pas sélectionné dû au manque de composantes techniques). Tout d'abord elle m'a plu car je trouve que la façon dont elle a été animée est très hors du commun. En effet, les deux animations qui composent cette oeuvres ont été animées grâce à des données récoltées par un spiromètre (un capteur de respiration). L'artiste a animé la vidéo de droite avec une respiration tranquille et celle de gauche avec une respiration saccadée. Je trouve que cette idée sort de la norme et j'ai aimé la façon dont l'artiste a fait preuve de créativité. Ensuite, j'ai aimé l'oeuvre car son apparence me plait. C'est un style abstrait et organique qui me rappelle les créations de d'autres artistes que j'aime beaucoup (les robes de Iris Van Herpen, par exemple). Bref, ce qui m'a le plus plu est l'oeuvre de Salomé à cause de son ingéniosité et de son esthétique. 
+Echomarine était mon oeuvre préférée parmi les projets de la cohorte. Tout d'abord, je l'ai aimé car elle m'a touché personnellement. En effet, les animaux marins sont quelque chose qui me tient à coeur car mon animal préféré vient de l'océan. Lorsque je suis rentrée dans la pièce, j'ai tout de suite adoré l'ambiance créée par le son et la fresque projetée sur le mur.
 
 ### Ce que j'ai moins apprécié
 
