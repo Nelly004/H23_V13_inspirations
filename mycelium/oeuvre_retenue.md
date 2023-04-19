@@ -9,19 +9,18 @@
 ***Date de visite:*** L'exposition a officiellement eu lieu du 20 au 23 mars.
 
 
-## L'oeuvre: nature morte 7
+## L'oeuvre: Echomarine
 
-*Conçue par Baron Lanteigne, 2022*
+*Conçue par Florence Lapierre, Natacha Abdallah, Tracy Gua, Maria Laura Coronel
+*
 
-<img src="images/images/oeuvre1.jpg" width=250px heigth=250px />
+*"Une projection immersive controlée par un dispositif interactif qui nous donne un aperçu de la beauté des fonds marins tout en mettant de l'avant ses enjeux. Animaux interactifs et plantes marines, Echomarine a un but contemplatif et vise à conscientiser."*
 
-*"Nature Morte 7 présente une fenêtre – unique mais fragmentée – composée d'écrans posés au sol. Elle ouvre sur un monde oublié, mais toujours en activité. La pièce centrale de cette œuvre combine un écran avec divers composantes électroniques qui s’illumine. La sculpture suspendue tourne le dos au spectateur, afin de mettre en évidence son fonctionnement interne. L’électroniques « grand public » dont l'œuvre est composée sont délibérément sortis de leur contexte habituel. Cela permet de révéler leur potentiel, qui est souvent banalisé."*
-
--Baron Lanteigne
+-L'équipe
 
 ### Composantes
 
-L'artiste a utilisé 10 télévisions (8 au sol, 1 suspendue dans une boîte qui était le focus de l'oeuvre, une autre suspendue à part). Une boîte en plexiglass contient la télévision d'un côté. Des leds contournent la télé dans la boîte. De l'autre côté se trouve une surface où sont vissés plusieurs éléments qui semblent être des répliques de cartes mères d'ordinateurs tranparentes agrémentées de lumières colorées et d'écrans miniatures. Des fils non-dissimulés relient ces éléments ensemble. Pour décorer, des fausses vignes parsement les télévisions au sol ainsi que la boîte de plexiglass. Les fils des éléments suspendus étaient sans doute branchés à des prises cachées au plafond. J'ai pu remarquer une barre multiprises sur lesquelles les télévisions au sol étaient branchées.
+Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été fait dans photoshop. 
 
 ### Mise en exposition
 
