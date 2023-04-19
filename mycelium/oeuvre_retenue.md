@@ -36,7 +36,7 @@ L'installation invite le visiteur à la contourner afin de voir les deux côtés
 ## Mes impressions sur l'exposition
 
 ### Ce que j'ai aimé
-Echomarine était mon oeuvre préférée parmi les projets de la cohorte. Tout d'abord, je l'ai aimé car elle m'a touché personnellement. En effet, les animaux marins sont quelque chose qui me tient à coeur car mon animal préféré vient de l'océan. Lorsque je suis rentrée dans la pièce, j'ai tout de suite adoré l'ambiance créée par le son et la fresque projetée sur le mur.
+Echomarine était mon oeuvre préférée parmi les projets de la cohorte. Tout d'abord, je l'ai aimé car elle m'a touché personnellement. En effet, les animaux marins sont quelque chose qui me tient à coeur, car mon animal préféré vient de l'océan. Lorsque je suis rentrée dans la pièce, j'ai tout de suite adoré l'ambiance créée par le son et la fresque projetée sur le mur. J'ai aussi aimé l'aspect sensibilisation qu'on découvre lorsqu'on clique sur un icône d'animal et on en apprend sur ce dernier, tout en le voyant se promener autour de soi. Je crois que le fait que les animaux s'animent encourage les visiteurs à en apprendre plus sur ces bêtes des profondeurs. Ensuite, elle m'a procuré un sentiment d'immersion que je n'ai pas ressenti avec les autres projets que j'ai visités. Effectivement, les facteurs audiovisuels et le fait que l'oeuvre se déroule dans un lieu clos permettent aux visiteurs de véritablement se plonger dans l'expérience, contrairement aux autres oeuvres qui se passent à l'extérieur avec plusieurs éléments dérangeants. Bref, j'ai penché pour Echomarine puisqu'elle correspondait à mes intérêts et car je l'ai trouvé beaucoup plus mémorable.
 
 ### Ce que j'ai moins apprécié
 
