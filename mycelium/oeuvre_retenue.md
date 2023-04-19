@@ -20,7 +20,7 @@
 
 ### Composantes
 
-Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été fait dans photoshop. 
+Le projet contient 4 haut-parleurs. Ces derniers projettent les sons des quatre coins de la petite pièce, ce qui permet au visiteur de s'immerser dans une ambiance sonore sous-marine 360 degrés. Il y a également trois projecteurs qui affiche une réplique faite en vecteurs du fond de l'océan, qui a été faite dans photoshop. Une tablette graphique est présente au centre pour qu'on puisse intéragir avec l'exposition. 
 
 ### Mise en exposition
 
@@ -31,7 +31,7 @@ Des cables soutenaient la boîte en plexiglass ainsi que l'autre télévision ac
 
 ### Intéractivité
 
-L'installation invite le visiteur à la contourner afin de voir les deux côtés qu'elle représente: ce qu'on voit à l'écran et le hardware, une partie souvent cachée derrière l'écran et oublié par les utilisateurs. Le visiteur peut tourner autour de l'installation et observer comment elle fonctionne puisqu'aucun fil n'est caché. J'ai trouvé ce concept très intéressant et différent des autres installations qui cachent leurs parties électroniques car ce n'est "pas beau".
+La tablette graphique permet d'appuyer sur des images d'animaux marins. Lorsqu'on clique, on est mené vers une nouvelle page où est inscrit des informations sur l'animal sélectionné, et une animation spéciale est activée (l'animal nage autour de la pièce).
 
 ## Mes impressions sur l'exposition
 
