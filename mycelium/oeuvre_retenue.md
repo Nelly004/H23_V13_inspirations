@@ -8,9 +8,6 @@
 
 ***Date de visite:*** L'exposition a officiellement eu lieu du 20 au 23 mars.
 
-<img src="images/images/affiche.jpeg" width=250px heigth=250px /> 
-<img src="images/images/selfie.JPG" width=250px heigth=250px />
-
 
 ## L'oeuvre: nature morte 7
 
